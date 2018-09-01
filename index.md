@@ -1,4 +1,5 @@
 ---
+layout:home
 title: Great coffee with a conscience by Sean
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/uploads/20595c30af62dc1831b69d61a66e6aeb.jpg
