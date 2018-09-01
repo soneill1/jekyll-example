@@ -22,7 +22,7 @@ collections: # A list of collections the CMS should be able to edit
  - name: "home"
     label: "Home"
     files:
-      - file: "ndex.md"
+      - file: "index.md"
         label: "Home Page"
         name: "home"
         fields:
