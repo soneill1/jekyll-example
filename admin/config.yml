@@ -18,10 +18,10 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Categories", name: "categories", widget: "string", required: false}
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
-   - name: "home"
-    label: "Home"
+   - name: "pages"
+    label: "Pages"
     files:
-      - file: "index.md"
+      - file: "site/content/_index.md"
         label: "Home Page"
         name: "home"
         fields:
